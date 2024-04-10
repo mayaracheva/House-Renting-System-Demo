@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\35988\\Back-End-Technology\\ExerciseContinuousIntegrationCI-part2\\12.ContinuousIntegration_2\\02-House-Renting-System-App\\",
+  "WorkspaceRootPath": "C:\\Users\\35988\\Desktop\\12.ContinuousIntegration_2\\02-House-Renting-System-App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08D43746-D505-4F2C-B40B-A96E4539BAF4}|HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj|c:\\users\\35988\\back-end-technology\\exercisecontinuousintegrationci-part2\\12.continuousintegration_2\\02-house-renting-system-app\\houserentingsystem.services\\agents\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08D43746-D505-4F2C-B40B-A96E4539BAF4}|HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj|c:\\users\\35988\\desktop\\12.continuousintegration_2\\02-house-renting-system-app\\houserentingsystem.services\\infrastructure\\servicemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D43746-D505-4F2C-B40B-A96E4539BAF4}|HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj|solutionrelative:houserentingsystem.services\\infrastructure\\servicemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D43746-D505-4F2C-B40B-A96E4539BAF4}|HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj|c:\\users\\35988\\desktop\\12.continuousintegration_2\\02-house-renting-system-app\\houserentingsystem.services\\agents\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08D43746-D505-4F2C-B40B-A96E4539BAF4}|HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj|solutionrelative:houserentingsystem.services\\agents\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08D43746-D505-4F2C-B40B-A96E4539BAF4}|HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj|c:\\users\\35988\\back-end-technology\\exercisecontinuousintegrationci-part2\\12.continuousintegration_2\\02-house-renting-system-app\\houserentingsystem.services\\agents\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08D43746-D505-4F2C-B40B-A96E4539BAF4}|HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj|c:\\users\\35988\\desktop\\12.continuousintegration_2\\02-house-renting-system-app\\houserentingsystem.services\\agents\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08D43746-D505-4F2C-B40B-A96E4539BAF4}|HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj|solutionrelative:houserentingsystem.services\\agents\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,23 +35,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ServiceMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\35988\\Desktop\\12.ContinuousIntegration_2\\02-House-Renting-System-App\\HouseRentingSystem.Services\\Infrastructure\\ServiceMappingProfile.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Services\\Infrastructure\\ServiceMappingProfile.cs",
+              "ToolTip": "C:\\Users\\35988\\Desktop\\12.ContinuousIntegration_2\\02-House-Renting-System-App\\HouseRentingSystem.Services\\Infrastructure\\ServiceMappingProfile.cs",
+              "RelativeToolTip": "HouseRentingSystem.Services\\Infrastructure\\ServiceMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:05:53.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AgentService.cs",
-              "DocumentMoniker": "C:\\Users\\35988\\Back-End-Technology\\ExerciseContinuousIntegrationCI-part2\\12.ContinuousIntegration_2\\02-House-Renting-System-App\\HouseRentingSystem.Services\\Agents\\AgentService.cs",
+              "DocumentMoniker": "C:\\Users\\35988\\Desktop\\12.ContinuousIntegration_2\\02-House-Renting-System-App\\HouseRentingSystem.Services\\Agents\\AgentService.cs",
               "RelativeDocumentMoniker": "HouseRentingSystem.Services\\Agents\\AgentService.cs",
-              "ToolTip": "C:\\Users\\35988\\Back-End-Technology\\ExerciseContinuousIntegrationCI-part2\\12.ContinuousIntegration_2\\02-House-Renting-System-App\\HouseRentingSystem.Services\\Agents\\AgentService.cs",
+              "ToolTip": "C:\\Users\\35988\\Desktop\\12.ContinuousIntegration_2\\02-House-Renting-System-App\\HouseRentingSystem.Services\\Agents\\AgentService.cs",
               "RelativeToolTip": "HouseRentingSystem.Services\\Agents\\AgentService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T10:02:15.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IAgentService.cs",
-              "DocumentMoniker": "C:\\Users\\35988\\Back-End-Technology\\ExerciseContinuousIntegrationCI-part2\\12.ContinuousIntegration_2\\02-House-Renting-System-App\\HouseRentingSystem.Services\\Agents\\IAgentService.cs",
+              "DocumentMoniker": "C:\\Users\\35988\\Desktop\\12.ContinuousIntegration_2\\02-House-Renting-System-App\\HouseRentingSystem.Services\\Agents\\IAgentService.cs",
               "RelativeDocumentMoniker": "HouseRentingSystem.Services\\Agents\\IAgentService.cs",
-              "ToolTip": "C:\\Users\\35988\\Back-End-Technology\\ExerciseContinuousIntegrationCI-part2\\12.ContinuousIntegration_2\\02-House-Renting-System-App\\HouseRentingSystem.Services\\Agents\\IAgentService.cs",
+              "ToolTip": "C:\\Users\\35988\\Desktop\\12.ContinuousIntegration_2\\02-House-Renting-System-App\\HouseRentingSystem.Services\\Agents\\IAgentService.cs",
               "RelativeToolTip": "HouseRentingSystem.Services\\Agents\\IAgentService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

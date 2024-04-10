@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HouseRentingSystem.Tests
-build_property.ProjectDir = C:\Users\35988\Back-End-Technology\ExerciseContinuousIntegrationCI-part2\12.ContinuousIntegration_2\02-House-Renting-System-App\HouseRentingSystem.Tests\
+build_property.ProjectDir = C:\Users\35988\Desktop\12.ContinuousIntegration_2\02-House-Renting-System-App\HouseRentingSystem.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
